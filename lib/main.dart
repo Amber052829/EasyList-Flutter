@@ -5,7 +5,7 @@ main() {
 }
 
 class MyApp extends StatelessWidget {
-    build() {
-      
+    build(context) {
+      return MaterialApp;
     }
 }
